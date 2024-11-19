@@ -1,16 +1,23 @@
 [
-  {
-    "nombre": "pablo",
-    "edad": "1 año",
-    "tipo": "perro",
-    "color": "blanco",
-    "enfermedad": "tos"
-  },
-  {
-    "nombre": "firulays",
-    "edad": "2 año",
-    "tipo": "loro",
-    "color": "verde",
-    "enfermedad": "locura y delirio"
-  }
+   {
+      "nombre": "pablo",
+      "edad": "1 año",
+      "tipo": "perro",
+      "color": "blanco",
+      "enfermedad": "tos"
+   },
+   {
+      "nombre": "firulays",
+      "edad": "2 año",
+      "tipo": "loro",
+      "color": "verde",
+      "enfermedad": "locura y delirio"
+   },
+   {
+      "nombre": "pablo",
+      "edad": "1 año",
+      "tipo": "loboo",
+      "color": "negro",
+      "enfermedad": "tos"
+   }
 ]
